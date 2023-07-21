@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="password">كلمة المرور</string>
+    <string name="email_or_phone_number">البريد الإلكتروني أو رقم الهاتف</string>
+    <string name="log_in">تسجيل دخول</string>
+    <string name="sign_up_for_facebook">تسجيل حساب فيسبوك</string>
+    <string name="help_center">مركز المساعدة</string>
+</resources>
